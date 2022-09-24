@@ -1,0 +1,15 @@
+.header {
+  position: absolute;
+  z-index: 100;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+
+  outline: 2px solid yellow;
+
+  background-color: black;
+}
+.header__container {
+  padding-left: 72px;
+  padding-right: 72px;
+}
